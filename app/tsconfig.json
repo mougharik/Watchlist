@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": "/Users/mougharik/Code/Git/Watchlist/app/",
+    "paths": {
+      "context": ["./src/context/*"],
+      "navigation": ["./src/navigation/*"],
+      "screens": ["./src/screens/*"],
+      "util": ["./src/util/*"]
+    },
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react-native",
+    "lib": ["dom", "esnext"],
+    "moduleResolution": "node",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "noImplicitAny": false
+  }
+}
